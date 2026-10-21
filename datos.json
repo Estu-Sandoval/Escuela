@@ -1,0 +1,32 @@
+[
+  {
+    "estudiante": "Vadilla Ernesto Joaquín",
+    "tema": "M.R.U.V.",
+    "fecha_de_entrega": "17/05",
+    "estado": "sin calificar"
+  },
+  {
+    "estudiante": "Heredia Matías Ezequiel",
+    "tema": "Magnitudes Vectoriales",
+    "fecha_de_entrega": "04/04",
+    "estado": "sin calificar"
+  },
+  {
+    "estudiante": "Gimenez Valeria Agostina",
+    "tema": "M.R.U",
+    "fecha_de_entrega": "25/04",
+    "estado": "sin calificar"
+  },
+  {
+    "estudiante": "Campos María Eugenia",
+    "tema": "Suma de Fuerzas",
+    "fecha_de_entrega": "06/07",
+    "estado": "sin calificar"
+  },
+  {
+    "estudiante": "Recondo José María",
+    "tema": "Múltiplos y Submúltiplos",
+    "fecha_de_entrega": "16/04",
+    "estado": "sin calificar"
+  }
+]
